@@ -1,0 +1,39 @@
+[submodule "01-libft"]
+	path = 01-libft
+	url = https://github.com/tom-peter12/01-libft
+[submodule "02-ft_printf"]
+	path = 02-ft_printf
+	url = https://github.com/tom-peter12/02-ft_printf
+[submodule "03-get_next_line"]
+	path = 03-get_next_line
+	url = https://github.com/tom-peter12/03-get_next_line
+[submodule "04-fractol"]
+	path = 04-fractol
+	url = https://github.com/tom-peter12/04-fractol
+[submodule "05-minitalk"]
+	path = 05-minitalk
+	url = https://github.com/tom-peter12/05-minitalk
+[submodule "06-push_swap"]
+	path = 06-push_swap
+	url = https://github.com/tom-peter12/06-push_swap
+[submodule "07-minishell"]
+	path = 07-minishell
+	url = https://github.com/tom-peter12/07-minishell
+[submodule "08-philo"]
+	path = 08-philo
+	url = https://github.com/tom-peter12/08-philo
+[submodule "09-cub3d"]
+	path = 09-cub3d
+	url = https://github.com/tom-peter12/09-cub3d
+[submodule "10-cpp"]
+	path = 10-cpp
+	url = https://github.com/tom-peter12/10-cpp
+[submodule "11-Inception"]
+	path = 11-Inception
+	url = https://github.com/tom-peter12/11-Inception
+[submodule "12-irc"]
+	path = 12-irc
+	url = https://github.com/habentg/ft_ircserv.git
+[submodule "13-ft_transcendence"]
+	path = 13-ft_transcendence
+	url = https://github.com/Degef/transcendence.git

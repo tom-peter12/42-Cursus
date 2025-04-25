@@ -12,7 +12,7 @@
    
 ---
 
-## 🚀 Project Logs
+## Project Logs
 
 ### 🔍 Libft | C Foundations
 - **Status**: ✅ COMPLETE
@@ -127,4 +127,3 @@
 ## End Transmission
 - **Current Objective**: Piscine Data Science and Piscine Cyber Security
 - **Root Profile**: [github.com/tom-peter12](https://github.com/tom-peter12)
-- **Signal Status**: 🟢 Awaiting Next Mission

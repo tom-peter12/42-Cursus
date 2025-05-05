@@ -1,4 +1,4 @@
-# 🖥️ tom-peter12 | 42 Cursus Transmission Log
+# 🖥️ tom-peter12 | 42 Cursus Mission Log
 
 ```
    ███╗   ███╗██╗███████╗███████╗██╗ ██████╗ ███╗   ██╗    ██╗      ██████╗  ██████╗ 
@@ -110,7 +110,7 @@
 - **Date**: 2024-03-25 | Lv: 8.38
 - **Skills**: Sockets/TCP [█████] C++ Network [████] Client-Server [█████] Protocol [████] Poll/Select [████] Async IO [███]
 - **Threat Level**: Significant | Multi-client chaos and command parsing. Networking beast.
-- **Payload**: [./repository/ft_irc](https://github.com/tom-peter12/ft_irc)
+- **Payload**: [./repository/ft_irc](https://github.com/habentg/ft_ircserv)
 - <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/ft_irce.png" width="60" alt="ft_irc Badge">
 
 ### 🔍 ft_transcendence | Web Dev & Pong Synthesis
@@ -119,7 +119,7 @@
 - **Date**: 2024-07-29 | Lv: 11.11
 - **Skills**: Full-Stack [█████] JS Framework [████] Backend [████] WebSockets [█████] DB/SQL [███] Auth [████] Docker [█████] Game Logic [███]
 - **Threat Level**: Apex | Cursus finale. Web tech, real-time comms, and Pong glory.
-- **Payload**: [./repository/ft_transcendence](https://github.com/tom-peter12/ft_transcendence)
+- **Payload**: [./repository/ft_transcendence](https://github.com/Degef/transcendence)
 - <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/ft_transcendencem.png" width="60" alt="ft_transcendence Badge">
 
 ---

@@ -102,7 +102,7 @@
 - **Skills**: C++ Basics [█████] OOP [█████] Polymorphism [████] Exceptions [███] STL [████] Templates [███]
 - **Threat Level**: Varies | Shifted from C to C++ paradigms. OOP deep dive.
 - **Payload**: [./repository/cpp_modules](https://github.com/tom-peter12/CPP_Modules)
-- <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/cppmodule.png" width="60" alt="C++ Modules Badge">
+- <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/cppe.png" width="60" alt="C++ Modules Badge">
 
 ### 🔍 ft_irc | Building the Network Chat Backbone
 - **Status**: ✅ COMPLETE
@@ -111,7 +111,7 @@
 - **Skills**: Sockets/TCP [█████] C++ Network [████] Client-Server [█████] Protocol [████] Poll/Select [████] Async IO [███]
 - **Threat Level**: Significant | Multi-client chaos and command parsing. Networking beast.
 - **Payload**: [./repository/ft_irc](https://github.com/tom-peter12/ft_irc)
-- <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/irc.png" width="60" alt="ft_irc Badge">
+- <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/ft_irce.png" width="60" alt="ft_irc Badge">
 
 ### 🔍 ft_transcendence | Web Dev & Pong Synthesis
 - **Status**: ✅ COMPLETE
@@ -120,7 +120,7 @@
 - **Skills**: Full-Stack [█████] JS Framework [████] Backend [████] WebSockets [█████] DB/SQL [███] Auth [████] Docker [█████] Game Logic [███]
 - **Threat Level**: Apex | Cursus finale. Web tech, real-time comms, and Pong glory.
 - **Payload**: [./repository/ft_transcendence](https://github.com/tom-peter12/ft_transcendence)
-- <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/transcendence.png" width="60" alt="ft_transcendence Badge">
+- <img src="https://raw.githubusercontent.com/tom-peter12/tom-peter12/main/badges/ft_transcendencem.png" width="60" alt="ft_transcendence Badge">
 
 ---
 
